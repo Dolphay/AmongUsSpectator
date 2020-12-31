@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(192,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(295,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(301,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(334,28): warning C4101: 'msg': unreferenced local variable
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(349,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rman9\source\repos\AmongUs\AmongUs\dllmain.cpp(382,23): warning C4018: '<': signed/unsigned mismatch
+  AmongUs.vcxproj -> C:\Users\rman9\source\repos\AmongUs\Debug\AmongUs.dll
